@@ -1,2 +1,3 @@
 # amazon-pricechecker
 Amazonの商品ページを監視
+access_tokenの中にLINE notifyのアクセストークンを入れてください
